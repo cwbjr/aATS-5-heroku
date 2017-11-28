@@ -19,4 +19,4 @@ module.exports = {
     id: 5,
     type: 'Old-Fashioned Doughnuts'
   }
-  ]}
+]};
