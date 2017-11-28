@@ -1,5 +1,5 @@
 module.exports = {
-  cake: [{
+  "cake": [{
     id: 1,
     type: 'Piped Cake Doughnuts'
   },
@@ -18,5 +18,5 @@ module.exports = {
   {
     id: 5,
     type: 'Old-Fashioned Doughnuts'
-  }
-]};
+  }]
+};
